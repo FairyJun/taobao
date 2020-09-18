@@ -774,3 +774,28 @@
 	font-size: 14px;
 	margin-right: 4px;
 }
+/* 爱逛街 */
+.shooping .list li .text{
+	height: 44px;
+	line-height: 22px;
+	font-size: 14px;
+	overflow: hidden;
+	margin-top: 11px;;
+}
+.shooping .list li .text span{
+	font-size: 14px;
+	color: #ebebeb;
+	position: relative;
+	top: -5px;
+}
+.shooping .list li .text a:hover{
+	color: #f40;
+}
+.shooping .list li .comment{
+	color: #999;
+}
+.shooping .list li .comment img{
+	width: 22px;
+	height: 22px;
+	border-radius: 50%;
+}
